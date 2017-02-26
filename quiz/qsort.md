@@ -1,7 +1,7 @@
 아래 코드를 완성하시오 
 ```.c
 
-void sort(int left, int right)
+void qsort(int left, int right)
 {
     if(left < right)
     {
